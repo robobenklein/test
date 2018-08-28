@@ -1,0 +1,3 @@
+I am a text file.
+
+I now have contents.
